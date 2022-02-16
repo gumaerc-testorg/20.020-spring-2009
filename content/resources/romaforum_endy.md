@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-020-introduction-to-biological-engineering-design-spring-2009/cc6d9e6f8834200ba1323772be4db1f0_RomaForum_endy.jpg
+file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/cc6d9e6f8834200ba1323772be4db1f0_RomaForum_endy.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture and Studio Notes
+parent_type: CourseSection
 resourcetype: Image
 title: RomaForum_endy.jpg
 uid: cc6d9e6f-8834-200b-a132-3772be4db1f0

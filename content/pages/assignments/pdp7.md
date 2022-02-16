@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f46140cd-e86a-d79a-318f-ba9b9f2dbf04
 title: 'PDP7: DIYbio Reflections'
 uid: f891db08-de7e-ab21-9248-f82f1a25a5be

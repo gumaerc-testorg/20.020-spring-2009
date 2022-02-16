@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f46140cd-e86a-d79a-318f-ba9b9f2dbf04
 title: PDP4 Teamwork and Learning Styles
 uid: bab8ac23-d57d-1829-c8f5-903bfbaf410b

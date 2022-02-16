@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture and Studio Notes
 uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 ---
@@ -34,7 +37,7 @@ NOTES PAGES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -46,7 +49,7 @@ Design, build, test
 {{< tdopen >}}
 Paper airplane
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 1 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk01)
 {{< tdclose >}}
 
@@ -76,7 +79,7 @@ Take apart a tape recorder
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -88,7 +91,7 @@ Engineering as a rebuild
 {{< tdopen >}}
 Reassemble the tape recorder
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 2 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk02)
 {{< tdclose >}}
 
@@ -118,7 +121,7 @@ Play "Decide" (an exercise in policy and team dynamics)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -130,7 +133,7 @@ Sorting hat into project camps
 {{< tdopen >}}
 Temporary teams brainstorm project ideas
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Week 3 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk03)
 {{< tdclose >}}
 
@@ -148,7 +151,7 @@ The Clock of the Long Now
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -160,7 +163,7 @@ Backyard biology
 {{< tdopen >}}
 Kitchen DNA, Lego™Phoresis
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 4 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk04)
 {{< tdclose >}}
 
@@ -190,7 +193,7 @@ More Lego™Phoresis
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -202,7 +205,7 @@ Scientist as activist
 {{< tdopen >}}
 Video of DNA experimentation hearings, 1976
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 5 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk05)
 {{< tdclose >}}
 
@@ -238,7 +241,7 @@ Guest lecture by Prof. Jonathan King, MIT
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -250,7 +253,7 @@ Project work day
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 6 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk06)
 {{< tdclose >}}
 
@@ -280,7 +283,7 @@ Final project selection
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -292,7 +295,7 @@ System overviews
 {{< tdopen >}}
 Flip books, iGEM "bacterial buoy" project
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 7 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk07)
 {{< tdclose >}}
 
@@ -328,7 +331,7 @@ Abstraction in action part 2: devices to parts
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -340,7 +343,7 @@ Parts and registry
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 8 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk08)
 {{< tdclose >}}
 
@@ -370,7 +373,7 @@ Validate system operation, learn from modes of failure
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -382,7 +385,7 @@ Project work day
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 9 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk09)
 {{< tdclose >}}
 
@@ -412,7 +415,7 @@ Plan project re-design
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -424,7 +427,7 @@ Reliability
 {{< tdopen >}}
 Failures of materials, system performance and human sources
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 10 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk10)
 {{< tdclose >}}
 
@@ -454,7 +457,7 @@ Inventor vs. investor role playing
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -466,7 +469,7 @@ Re-design day 2
 {{< tdopen >}}
 Drew Endy teaching
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 [Week 11 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk11)
 {{< tdclose >}}
 
@@ -484,7 +487,7 @@ Drew Endy teaching
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -496,7 +499,7 @@ Project work day (cont.)
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 [Week 12 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk12)
 {{< tdclose >}}
 
@@ -526,7 +529,7 @@ Tips on oral presentations
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -538,7 +541,7 @@ Project work day
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 No notes – see [projects]({{< baseurl >}}/pages/projects) page for presentations
 {{< tdclose >}}
 
@@ -568,7 +571,7 @@ Class evaluation
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}
@@ -580,7 +583,7 @@ Q&A and project work (cont.)
 {{< tdopen >}}
  
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 No notes – see [projects]({{< baseurl >}}/pages/projects) page for presentations
 {{< tdclose >}}
 

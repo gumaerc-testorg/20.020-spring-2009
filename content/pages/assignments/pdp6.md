@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f46140cd-e86a-d79a-318f-ba9b9f2dbf04
 title: 'PDP6: Elements of Good Design'
 uid: 756e7778-79ee-8a5b-41b8-3cf5eefd127b

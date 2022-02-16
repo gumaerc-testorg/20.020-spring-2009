@@ -1,6 +1,8 @@
 ---
 content_type: video_gallery
 is_media_gallery: true
+learning_resource_types: []
+ocw_type: CourseSection
 title: BioBuilder Animations
 uid: 31a53ae4-8080-e2e1-23cc-03ee978bb1bd
 videos:

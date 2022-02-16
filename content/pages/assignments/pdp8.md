@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f46140cd-e86a-d79a-318f-ba9b9f2dbf04
 title: PDP8 Recombinant DNA and Asilomar
 uid: d95fa243-cdab-2629-6017-a10a317dcc60

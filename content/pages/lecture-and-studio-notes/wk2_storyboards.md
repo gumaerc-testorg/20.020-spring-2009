@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 parent_title: Lecture and Studio Notes
+parent_type: CourseSection
 parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 title: Week 2 Studio - Storyboards
 uid: 39b60acd-82ce-faf6-1992-26ac3a7bc0ad

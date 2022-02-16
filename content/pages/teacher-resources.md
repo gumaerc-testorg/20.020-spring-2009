@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Teacher Resources
 uid: b41a9c3e-24b7-7fcd-d441-04c576e0f5d4
 ---

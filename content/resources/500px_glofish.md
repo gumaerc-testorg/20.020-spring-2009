@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-020-introduction-to-biological-engineering-design-spring-2009/be9fbdbb1236ee909115587cbc5affe7_500px_GloFish.jpg
+file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/be9fbdbb1236ee909115587cbc5affe7_500px_GloFish.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Assignments
+ocw_type: OCWImage
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Image
 title: 500px_GloFish.jpg
 uid: be9fbdbb-1236-ee90-9115-587cbc5affe7

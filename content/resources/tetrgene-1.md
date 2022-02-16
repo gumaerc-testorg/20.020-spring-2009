@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-020-introduction-to-biological-engineering-design-spring-2009/17eafa14907407349442d56a45540fd0_TetRgene.gif
+file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/17eafa14907407349442d56a45540fd0_TetRgene.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture and Studio Notes
+parent_type: CourseSection
 resourcetype: Image
 title: TetRgene.gif
 uid: 17eafa14-9074-0734-9442-d56a45540fd0

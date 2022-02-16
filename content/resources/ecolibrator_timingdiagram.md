@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-020-introduction-to-biological-engineering-design-spring-2009/b6e4d95382f7148edf303d24ebfff55f_Ecolibrator_TimingDiagram.gif
+file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/b6e4d95382f7148edf303d24ebfff55f_Ecolibrator_TimingDiagram.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture and Studio Notes
+parent_type: CourseSection
 resourcetype: Image
 title: Ecolibrator_TimingDiagram.gif
 uid: b6e4d953-82f7-148e-df30-3d24ebfff55f

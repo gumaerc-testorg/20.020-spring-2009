@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-020-introduction-to-biological-engineering-design-spring-2009/5389dd661af01e63bf4e1cd070f5e188_lytic_phage.jpg
+file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/5389dd661af01e63bf4e1cd070f5e188_lytic_phage.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture and Studio Notes
+parent_type: CourseSection
 resourcetype: Image
 title: lytic_phage.jpg
 uid: 5389dd66-1af0-1e63-bf4e-1cd070f5e188

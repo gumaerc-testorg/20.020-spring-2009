@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f46140cd-e86a-d79a-318f-ba9b9f2dbf04
 title: 'PDP2: iGEM Review Questions'
 uid: 748793de-af7d-1446-8239-f08710adb74a

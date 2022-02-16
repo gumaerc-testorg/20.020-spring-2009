@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Team Building Resources
 uid: 59aef7d7-fdb0-1a1f-fd2b-9d9194f42dec
 ---

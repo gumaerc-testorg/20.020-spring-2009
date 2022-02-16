@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-020-introduction-to-biological-engineering-design-spring-2009/39992fec9b47567b49cabbf17012ff23_Arsen_Dev_level.gif
+file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/39992fec9b47567b49cabbf17012ff23_Arsen_Dev_level.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture and Studio Notes
+parent_type: CourseSection
 resourcetype: Image
 title: Arsen_Dev_level.gif
 uid: 39992fec-9b47-567b-49ca-bbf17012ff23

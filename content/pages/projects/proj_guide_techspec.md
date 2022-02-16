@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: becca3d9-df0a-28ca-aa38-17ca41c1c55b
 title: 'Project Presentation Guidelines: Technical Specification Review'
 uid: dce3c24d-dc88-16f5-7ff7-e6660efae32d

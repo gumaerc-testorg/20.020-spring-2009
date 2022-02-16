@@ -1,12 +1,17 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/20-020-introduction-to-biological-engineering-design-spring-2009/5e6727bfe2023b595fa019ad65a8bfb8_StationaryBananas.gif
+file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/5e6727bfe2023b595fa019ad65a8bfb8_StationaryBananas.gif
 file_type: image/gif
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWImage
+parent_title: Lecture and Studio Notes
+parent_type: CourseSection
 resourcetype: Image
 title: StationaryBananas.gif
 uid: 5e6727bf-e202-3b59-5fa0-19ad65a8bfb8

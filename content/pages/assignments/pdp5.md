@@ -1,6 +1,10 @@
 ---
 content_type: page
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f46140cd-e86a-d79a-318f-ba9b9f2dbf04
 title: 'PDP5: Camp Catalog Favorites'
 uid: f3d7a1ea-4cf9-5fa0-22ce-86ee40bc078a
