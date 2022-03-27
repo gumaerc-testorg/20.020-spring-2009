@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture and Studio Notes
 parent_type: CourseSection
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: Lego4.jpg
 uid: 13fc7cff-10cc-c5c1-2632-2ae53d196a42

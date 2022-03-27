@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture and Studio Notes
 parent_type: CourseSection
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: ShearStress.jpg
 uid: de12c550-0cdc-1dac-747b-1c643fb2195b

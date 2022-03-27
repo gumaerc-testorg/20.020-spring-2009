@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Lecture and Studio Notes
 parent_type: CourseSection
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Image
 title: smiths_classic_wiring.gif
 uid: 23b7a750-c30c-8d62-96f8-0b2af7bd2ef0

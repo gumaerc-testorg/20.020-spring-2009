@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: becca3d9-df0a-28ca-aa38-17ca41c1c55b
 resourcetype: Document
 title: MIT20_020S09_proj13_nrg_3id.pdf
 uid: 91e73be5-049d-3055-25f8-a4588148f3a6

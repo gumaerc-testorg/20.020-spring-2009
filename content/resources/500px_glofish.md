@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: f46140cd-e86a-d79a-318f-ba9b9f2dbf04
 resourcetype: Image
 title: 500px_GloFish.jpg
 uid: be9fbdbb-1236-ee90-9115-587cbc5affe7

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture and Studio Notes
 parent_type: CourseSection
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Document
 title: MIT20_020S09_lec3_wk3_st3f.pdf
 uid: f91aecbf-b44c-389b-0002-33bbf9505686

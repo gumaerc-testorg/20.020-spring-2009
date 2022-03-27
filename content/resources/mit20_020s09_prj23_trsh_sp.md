@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: becca3d9-df0a-28ca-aa38-17ca41c1c55b
 resourcetype: Document
 title: MIT20_020S09_prj23_trsh_sp.pdf
 uid: f031972c-1e76-39d9-f33d-7857555b41e0

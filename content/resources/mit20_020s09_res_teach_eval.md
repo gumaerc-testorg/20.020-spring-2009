@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Teacher Resources
 parent_type: CourseSection
+parent_uid: b41a9c3e-24b7-7fcd-d441-04c576e0f5d4
 resourcetype: Document
 title: MIT20_020s09_res_teach_eval.pdf
 uid: 06f5082b-a93d-ec44-c916-ada32d528489

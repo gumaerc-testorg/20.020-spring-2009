@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture and Studio Notes
 parent_type: CourseSection
+parent_uid: 6b390478-4bb4-fa18-4e86-cd14829a747e
 resourcetype: Document
 title: MIT20_020S09_lec1_rvw2_phg.pdf
 uid: f506003f-e114-add0-97a8-e4c7f23c1927

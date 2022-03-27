@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: becca3d9-df0a-28ca-aa38-17ca41c1c55b
 resourcetype: Document
 title: MIT20_020S09_proj_hepc_fin.pdf
 uid: 31a618a0-4e13-95e4-2fb4-41a281d76f12

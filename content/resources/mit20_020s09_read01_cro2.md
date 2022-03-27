@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Readings (20.902)
 parent_type: CourseSection
+parent_uid: 7383cd6e-01ff-ea89-442e-1e74b3c4a721
 resourcetype: Document
 title: MIT20_020S09_read01_cro2.pdf
 uid: a67cb70d-880b-b444-e7a1-93634ec5699c
