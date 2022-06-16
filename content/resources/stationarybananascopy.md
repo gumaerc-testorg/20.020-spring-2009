@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/8c863009fc370c1d93de49920db909da_StationaryBananascopy.jpg
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/8c863009fc370c1d93de49920db909da_StationaryBananascopy.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

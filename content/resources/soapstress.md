@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/a9528b5ce2ae9c2dea87d3379df7d5b7_soapstress.gif
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/a9528b5ce2ae9c2dea87d3379df7d5b7_soapstress.gif
 file_type: image/gif
 image_metadata:
   caption: ''

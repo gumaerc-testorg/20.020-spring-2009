@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/b0672bae24126e7ce52323e20e6a9337_Intro1EcolibratorMovie.gif
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/b0672bae24126e7ce52323e20e6a9337_Intro1EcolibratorMovie.gif
 file_type: image/gif
 image_metadata:
   caption: ''

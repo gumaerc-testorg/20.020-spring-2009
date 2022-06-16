@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/4844f99dbe8c90592b2dea8ee7248935_iGEM_storyboard_3.jpg
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/4844f99dbe8c90592b2dea8ee7248935_iGEM_storyboard_3.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

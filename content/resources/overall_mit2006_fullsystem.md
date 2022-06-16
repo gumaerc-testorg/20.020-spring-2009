@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/7d06fe934b8ba5afad099210991a5cf5_Overall_MIT2006_Fullsystem.jpg
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/7d06fe934b8ba5afad099210991a5cf5_Overall_MIT2006_Fullsystem.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

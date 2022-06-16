@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section provides the schedule of lecture topics and activities,
+  and includes the notes from each week of the course.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -50,7 +52,7 @@ Design, build, test
 Paper airplane
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 1 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk01)
+{{% resource_link 821098f9-2c95-f014-c473-4752b37ba354 "Week 1 Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -92,7 +94,7 @@ Engineering as a rebuild
 Reassemble the tape recorder
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 2 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk02)
+{{% resource_link 6b8945a5-6568-58af-2270-77538a80a7dd "Week 2 Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -134,7 +136,7 @@ Sorting hat into project camps
 Temporary teams brainstorm project ideas
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Week 3 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk03)
+{{% resource_link c4615bc8-0f9d-6af0-20f6-0ca89935fe60 "Week 3 Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -164,7 +166,7 @@ Backyard biology
 Kitchen DNA, Lego™Phoresis
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 4 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk04)
+{{% resource_link c54f2779-6b0a-a949-8b60-b5b85e7263fd "Week 4 Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -206,7 +208,7 @@ Scientist as activist
 Video of DNA experimentation hearings, 1976
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 5 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk05)
+{{% resource_link ecc8c0b6-aeb4-fcf4-81b2-d11df9989280 "Week 5 Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -254,7 +256,7 @@ Project work day
  
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 6 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk06)
+{{% resource_link d0890a7e-5f47-408f-4c58-19bfda0184d5 "Week 6 Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -296,7 +298,7 @@ System overviews
 Flip books, iGEM "bacterial buoy" project
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 7 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk07)
+{{% resource_link 9237f479-14b6-fcf6-ebc3-81a17f30c078 "Week 7 Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -344,7 +346,7 @@ Parts and registry
  
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 8 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk08)
+{{% resource_link f717511d-c964-14a4-badf-cf6918fd3de0 "Week 8 Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -386,7 +388,7 @@ Project work day
  
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 9 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk09)
+{{% resource_link 596a5584-2cc5-57bc-df13-b5500d41ebc6 "Week 9 Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -428,7 +430,7 @@ Reliability
 Failures of materials, system performance and human sources
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 10 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk10)
+{{% resource_link 6f3582f8-c737-2c4a-bdf9-724395731ce3 "Week 10 Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -470,7 +472,7 @@ Re-design day 2
 Drew Endy teaching
 {{< tdclose >}}
 {{< tdopen rowspan="2" >}}
-[Week 11 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk11)
+{{% resource_link 97246fb2-b4a1-84c7-3e17-a719194f3840 "Week 11 Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -500,7 +502,7 @@ Project work day (cont.)
  
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-[Week 12 Notes]({{< baseurl >}}/pages/lecture-and-studio-notes/wk12)
+{{% resource_link 1ab5ac51-7c39-745b-42be-095483802554 "Week 12 Notes" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -542,7 +544,7 @@ Project work day
  
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-No notes – see [projects]({{< baseurl >}}/pages/projects) page for presentations
+No notes – see {{% resource_link becca3d9-df0a-28ca-aa38-17ca41c1c55b "projects" %}} page for presentations
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -584,7 +586,7 @@ Q&A and project work (cont.)
  
 {{< tdclose >}}
 {{< tdopen rowspan="3" >}}
-No notes – see [projects]({{< baseurl >}}/pages/projects) page for presentations
+No notes – see {{% resource_link becca3d9-df0a-28ca-aa38-17ca41c1c55b "projects" %}} page for presentations
 {{< tdclose >}}
 
 {{< trclose >}}

@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section includes a detailed overview of the course, its policies,
+  learning objectives, requirements and grading criteria, along with the lecture schedule
+  and key dates.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -110,8 +113,8 @@ Course catalog description of 20.902:
 
 Two particular aspects of 20.902 are woven into the 20.020 OCW site.
 
-*   Papers on the [readings]({{< baseurl >}}/pages/readings-20-902) page are assigned only to the 20.902 students. However, 20.020 students are exposed to these papers through the weekly in-class presentations and discussions.
-*   The project mentoring roles and expectations for 20.902 students are included on the [projects]({{< baseurl >}}/pages/projects) page
+*   Papers on the {{% resource_link 7383cd6e-01ff-ea89-442e-1e74b3c4a721 "readings" %}} page are assigned only to the 20.902 students. However, 20.020 students are exposed to these papers through the weekly in-class presentations and discussions.
+*   The project mentoring roles and expectations for 20.902 students are included on the {{% resource_link becca3d9-df0a-28ca-aa38-17ca41c1c55b "projects" %}} page
 
 ### Requirements and Grading
 

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/6de5cb3d02b0393162f82c8cf98896ef_Legophoresis.jpg
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/6de5cb3d02b0393162f82c8cf98896ef_Legophoresis.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

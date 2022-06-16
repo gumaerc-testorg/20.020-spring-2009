@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/f34390ed4f05927989871ece10b7451b_NOTlogic.jpg
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/f34390ed4f05927989871ece10b7451b_NOTlogic.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

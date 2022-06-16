@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/23b7a750c30c8d6296f80b2af7bd2ef0_smiths_classic_wiring.gif
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/23b7a750c30c8d6296f80b2af7bd2ef0_smiths_classic_wiring.gif
 file_type: image/gif
 image_metadata:
   caption: ''

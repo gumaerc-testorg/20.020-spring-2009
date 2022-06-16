@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/20-020-introduction-to-biological-engineering-design-spring-2009/de12c5500cdc1dac747b1c643fb2195b_ShearStress.jpg
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/de12c5500cdc1dac747b1c643fb2195b_ShearStress.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''

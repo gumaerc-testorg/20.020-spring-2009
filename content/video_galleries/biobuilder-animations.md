@@ -1,5 +1,8 @@
 ---
 content_type: video_gallery
+description: 'This section provides a full set of BioBuilder animations.  BioBuilder
+  is a resource for hands-on activities and informative animations on synthetic biology,
+  and a place to discuss the challenge of engineering biological systems. '
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: CourseSection
