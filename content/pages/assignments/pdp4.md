@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section provides information on the fourth assignment of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f46140cd-e86a-d79a-318f-ba9b9f2dbf04
 title: PDP4 Teamwork and Learning Styles
 uid: bab8ac23-d57d-1829-c8f5-903bfbaf410b
 ---
 
-[PDP1]({{< baseurl >}}/pages/assignments/20-020_assn) | [PDP2]({{< baseurl >}}/pages/assignments/pdp2) | [PDP3]({{< baseurl >}}/pages/assignments/pdp3) | PDP4 | [PDP5]({{< baseurl >}}/pages/assignments/pdp5) | [PDP6]({{< baseurl >}}/pages/assignments/pdp6) | [PDP7]({{< baseurl >}}/pages/assignments/pdp7) | [PDP8]({{< baseurl >}}/pages/assignments/pdp8)
+{{% resource_link 7ef809ca-6e7c-c228-6009-9fdf144f91a5 "PDP1" %}} | {{% resource_link 748793de-af7d-1446-8239-f08710adb74a "PDP2" %}} | {{% resource_link c2228cb6-b321-79d4-e0d8-9b54555761a7 "PDP3" %}} | PDP4 | {{% resource_link f3d7a1ea-4cf9-5fa0-22ce-86ee40bc078a "PDP5" %}} | {{% resource_link 756e7778-79ee-8a5b-41b8-3cf5eefd127b "PDP6" %}} | {{% resource_link f891db08-de7e-ab21-9248-f82f1a25a5be "PDP7" %}} | {{% resource_link d95fa243-cdab-2629-6017-a10a317dcc60 "PDP8" %}}
 
 Part 1: Team Dynamics
 ---------------------

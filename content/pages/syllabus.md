@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section includes a detailed overview of the course, its policies,
+  learning objectives, requirements and grading criteria, along with the lecture schedule
+  and key dates.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: 39c52415-5b27-90c7-5ad9-577dafb7b7a3
 ---
@@ -108,8 +113,8 @@ Course catalog description of 20.902:
 
 Two particular aspects of 20.902 are woven into the 20.020 OCW site.
 
-*   Papers on the [readings]({{< baseurl >}}/pages/readings-20-902) page are assigned only to the 20.902 students. However, 20.020 students are exposed to these papers through the weekly in-class presentations and discussions.
-*   The project mentoring roles and expectations for 20.902 students are included on the [projects]({{< baseurl >}}/pages/projects) page
+*   Papers on the {{% resource_link 7383cd6e-01ff-ea89-442e-1e74b3c4a721 "readings" %}} page are assigned only to the 20.902 students. However, 20.020 students are exposed to these papers through the weekly in-class presentations and discussions.
+*   The project mentoring roles and expectations for 20.902 students are included on the {{% resource_link becca3d9-df0a-28ca-aa38-17ca41c1c55b "projects" %}} page
 
 ### Requirements and Grading
 
@@ -156,7 +161,7 @@ KEY DATES
 
 {{< theadclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 1
 {{< tdclose >}}
 {{< tdopen >}}
@@ -204,7 +209,7 @@ Homework PDP1 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 2
 {{< tdclose >}}
 {{< tdopen >}}
@@ -252,7 +257,7 @@ Play "Decide" (an exercise in policy and team dynamics)
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 3
 {{< tdclose >}}
 {{< tdopen >}}
@@ -285,7 +290,7 @@ Homework PDP5 due
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 4
 {{< tdclose >}}
 {{< tdopen >}}
@@ -341,7 +346,7 @@ More Lego™Phoresis
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 5
 {{< tdclose >}}
 {{< tdopen >}}
@@ -395,7 +400,7 @@ Guest lecture by Prof. Jonathan King, MIT
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 6
 {{< tdclose >}}
 {{< tdopen >}}
@@ -443,7 +448,7 @@ Final project selection
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 7
 {{< tdclose >}}
 {{< tdopen >}}
@@ -497,7 +502,7 @@ Abstraction in action part 2: devices to parts
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 8
 {{< tdclose >}}
 {{< tdopen >}}
@@ -545,7 +550,7 @@ Validate system operation, learn from modes of failure
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 9
 {{< tdclose >}}
 {{< tdopen >}}
@@ -593,7 +598,7 @@ Plan project re-design
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 10
 {{< tdclose >}}
 {{< tdopen >}}
@@ -641,7 +646,7 @@ Inventor vs. investor role playing
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 11
 {{< tdclose >}}
 {{< tdopen >}}
@@ -674,7 +679,7 @@ Drew Endy teaching
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 12
 {{< tdclose >}}
 {{< tdopen >}}
@@ -722,7 +727,7 @@ Tips on oral presentations
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 13
 {{< tdclose >}}
 {{< tdopen >}}
@@ -770,7 +775,7 @@ Class evaluation
 
 {{< trclose >}}
 {{< tropen >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 14
 {{< tdclose >}}
 {{< tdopen >}}

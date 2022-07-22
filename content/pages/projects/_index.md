@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section describes the work required for the team projects - a development
+  notebook and three team presentations - along with the contributions of the 20.902
+  student mentors.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 title: Projects
 uid: becca3d9-df0a-28ca-aa38-17ca41c1c55b
 ---
@@ -16,16 +22,16 @@ This assignment has three parts, to be submitted at various points during the te
 *   Team Facebook page
 *   Team contract
 *   Project log
-    *   A sample of a superb project log from prior year ([PDF - 1.1MB]({{< baseurl >}}/resources/mit20_020s09_prj1_log_smpl)) (Courtesy of Charlotte Yang, Angela Chang, Alex Rodriguez, and anonymous MIT student JE. Used with permission.)
+    *   A sample of a superb project log from prior year ({{% resource_link c1f0de4c-2349-dd15-ff64-ad704cb4e219 "PDF - 1.1MB" %}}) (Courtesy of Charlotte Yang, Angela Chang, Alex Rodriguez, and anonymous MIT student JE. Used with permission.)
 
 Team Presentations
 ------------------
 
 Each team will give three presentations during the course of their work.
 
-*   3 Ideas Presentation ([guidelines]({{< baseurl >}}/pages/projects/proj_guide_3ideas))
-*   Technical Specification Review ([guidelines]({{< baseurl >}}/pages/projects/proj_guide_techspec))
-*   Final Presentation with supporting technical documents ([guidelines]({{< baseurl >}}/pages/projects/proj_guide_final))
+*   3 Ideas Presentation ({{% resource_link 20673f91-84e9-0922-eae0-0b6108713415 "guidelines" %}})
+*   Technical Specification Review ({{% resource_link dce3c24d-dc88-16f5-7ff7-e6660efae32d "guidelines" %}})
+*   Final Presentation with supporting technical documents ({{% resource_link 0adcd2f4-a2f1-421e-7ecb-49a644eed8fa "guidelines" %}})
 
 Team Mentoring by 20.902 Students
 ---------------------------------
@@ -45,7 +51,7 @@ Each report should be a one to two page summary of your freshman team's **work**
 *   Tech Spec progress report
 *   Thee Final Briefing progress reports, including suggested grades for the contribution of each team member to the content of the final project.
 
-A sample progress report, modfied from the Spring 2008 class ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj2_902prog)). (Courtesy of anonymous MIT student. Used with permission.)
+A sample progress report, modfied from the Spring 2008 class ({{% resource_link 135d15b3-4620-1bc0-e730-e4ff1757c7e2 "PDF" %}}). (Courtesy of anonymous MIT student. Used with permission.)
 
 ### Team Mentoring Journal
 
@@ -55,7 +61,7 @@ Each report should be a one to two page summary of your freshman team's **dynami
 *   Tech Spec progress report
 *   Thee Final Briefing progress reports, including suggested grades for the contribution of each team member to the content of the final project.
 
-A sample progress report, modfied from the Spring 2008 class ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj3_902mntr)). (Courtesy of anonymous MIT student. Used with permission.)
+A sample progress report, modfied from the Spring 2008 class ({{% resource_link da65d953-0a97-fd81-f513-5112b393f8cf "PDF" %}}). (Courtesy of anonymous MIT student. Used with permission.)
 
 {{< anchor "Project_Documentation" >}}{{< /anchor >}}Project Documentation
 --------------------------------------------------------------------------
@@ -96,19 +102,19 @@ Mentor: anonymous MIT student
 
 {{< tdclose >}}
 {{< tdopen >}}
-Contract ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj7_hepc_ctct))
+Contract ({{% resource_link d46c95d6-0891-3678-9b6c-29e8eb84460e "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj6_hepc_3id))
+3 Ideas ({{% resource_link 4a486c8b-3945-de3a-9b53-89c139445fa9 "PDF" %}})
 
-Tech Spec ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj8_hepc_sp))
+Tech Spec ({{% resource_link 95b18044-8dcf-c6c7-14ea-1e6915c7e47e "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
-Final presentation ([PDF]({{< baseurl >}}/resources/mit20_020s09_proj_hepc_fin))
+Final presentation ({{% resource_link 31a618a0-4e13-95e4-2fb4-41a281d76f12 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -131,9 +137,9 @@ Mentor: Julie Norville
 {{< tdopen >}}
 
 
-3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_proj13_nrg_3id))
+3 Ideas ({{% resource_link 91e73be5-049d-3055-25f8-a4588148f3a6 "PDF" %}})
 
-Tech Spec ([PDF]({{< baseurl >}}/resources/mit20_020s09_proj14_nrg_sp))
+Tech Spec ({{% resource_link 4e9e0475-1749-ce7e-e50b-56aedf89d943 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -161,9 +167,9 @@ Mentor: anonymous MIT student
 {{< tdopen >}}
 
 
-3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj4_grow_3id))
+3 Ideas ({{% resource_link 15eaf1d6-d61a-2641-90f4-042b07ff0cc8 "PDF" %}})
 
-Tech Spec ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj5_grow_sp))
+Tech Spec ({{% resource_link c593c4be-aaf4-7e1d-bad7-13013693f119 "PDF" %}})
 
 
 {{< tdclose >}}
@@ -188,27 +194,27 @@ Mentor: anonymous MIT student
 {{< tdopen >}}
 
 
-Contract ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj16_onco_ctct))
+Contract ({{% resource_link 72a79b9f-97b4-7040-b5d3-05f84cc601e2 "PDF" %}})
 
-Log ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj18_onco_log))
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
-
-3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_proj_onc15_3id))
-
-Tech Spec ([PDF ‑ 2.8MB]({{< baseurl >}}/resources/mit20_020s09_prj19_onco_sp))
+Log ({{% resource_link 872f7900-3a80-9696-14d9-90d772853885 "PDF" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Final presentation ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj17_onco_fnp))
+3 Ideas ({{% resource_link ba2c0bf0-1933-1ef8-4664-7fb0b05b224f "PDF" %}})
 
-Report ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj20_onco_td))
+Tech Spec ({{% resource_link bea9ecfa-4f94-7bf8-51ad-5038eb078661 "PDF ‑ 2.8MB" %}})
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Final presentation ({{% resource_link c32aaf4a-7775-8521-faf7-16f53d65bc64 "PDF" %}})
+
+Report ({{% resource_link 7cdd0523-bedd-2574-c4a1-e369fb501d9f "PDF" %}})
 
 
 {{< tdclose >}}
@@ -233,20 +239,20 @@ Mentor: anonymous MIT student
 {{< tdopen >}}
 
 
-3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj9_neuro_3id))
+3 Ideas ({{% resource_link 65dbe953-ec3e-42d8-aa44-f586207f1c3b "PDF" %}})
 
-Tech Spec ([PDF ‑ 1.9MB]({{< baseurl >}}/resources/mit20_020s09_prj10_neuro_sp))
+Tech Spec ({{% resource_link cbd38ec0-cfb7-40e1-3914-e16df5497bc3 "PDF ‑ 1.9MB" %}})
 
 
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-Final presentation ([PDF - 1.4MB]({{< baseurl >}}/resources/mit20_020s09_proj_neur_fin))
+Final presentation ({{% resource_link 23d9c8e4-3d31-76ea-f46b-0732e5ba535b "PDF - 1.4MB" %}})
 
-Report ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj11_neuro_td))
+Report ({{% resource_link 390dda4d-7244-4e24-c832-5b3657a5aa2c "PDF" %}})
 
-Technical slides ([PDF ‑ 1.2MB]({{< baseurl >}}/resources/mit20_020s09_prj12_neuro_td))
+Technical slides ({{% resource_link 16915319-b9cf-a618-bc17-326ff2e3fee0 "PDF ‑ 1.2MB" %}})
 
 
 {{< tdclose >}}
@@ -266,14 +272,14 @@ Mentor: Julie Norville
 
 {{< tdclose >}}
 {{< tdopen >}}
-Contract ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj22_trsh_cnt))
+Contract ({{% resource_link 508a0da3-7aca-ed1e-2bc8-c91c4502b799 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 
 
-3 Ideas ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj21_trsh_3id))
+3 Ideas ({{% resource_link 056269c2-90a1-c5b5-94ae-edb508dd7c1b "PDF" %}})
 
-Tech Spec ([PDF]({{< baseurl >}}/resources/mit20_020s09_prj23_trsh_sp))
+Tech Spec ({{% resource_link f031972c-1e76-39d9-f33d-7857555b41e0 "PDF" %}})
 
 
 {{< tdclose >}}

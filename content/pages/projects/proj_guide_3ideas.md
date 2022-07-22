@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: Project presentation guidelines.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: becca3d9-df0a-28ca-aa38-17ca41c1c55b
 title: 'Project Presentation Guidelines: 3 Ideas'
 uid: 20673f91-84e9-0922-eae0-0b6108713415
 ---
 
-![Diagram of the project process, showing the scope of the 3 ideas presentation.](/courses/biological-engineering/20-020-introduction-to-biological-engineering-design-spring-2009/projects/3ideasOrganizer.gif)
+{{< resource "263e963a-6e13-edb6-2e40-80d4ca143a22" >}}
 
 Project process: 3 Ideas presentation
 

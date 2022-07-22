@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes details on materials needed for in-class activites
+  for some of the weeks during this course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Teacher Resources
 uid: b41a9c3e-24b7-7fcd-d441-04c576e0f5d4
 ---
@@ -11,14 +15,14 @@ Evaluation Report
 
 This report on the Spring 2008 version of 20.020 was produced by the [MIT Teaching and Learning Laboratory](https://tll.mit.edu/).
 
-Mitchell, Rudolph. "A Pilot Study of Curriculum Innovations Implemented in a New Project-Based Subject, Introduction to Biological Engineering Design (20.020)." October 3, 2008. ([PDF]({{< baseurl >}}/resources/mit20_020s09_res_teach_eval)) (Courtesy of Rudolph Mitchell. Used with permission.)
+Mitchell, Rudolph. "A Pilot Study of Curriculum Innovations Implemented in a New Project-Based Subject, Introduction to Biological Engineering Design (20.020)." October 3, 2008. ({{% resource_link 06f5082b-a93d-ec44-c916-ada32d528489 "PDF" %}}) (Courtesy of Rudolph Mitchell. Used with permission.)
 
 Class Materials List
 --------------------
 
 Following are materials needed for in-class activites during Weeks 1, 2, 4, and 8.
 
-[Week 1]({{< baseurl >}}/pages/lecture-and-studio-notes/wk01)
+{{% resource_link 821098f9-2c95-f014-c473-4752b37ba354 "Week 1" %}}
 -------------------------------------------------------------
 
 1.  Project Runway
@@ -30,7 +34,7 @@ Following are materials needed for in-class activites during Weeks 1, 2, 4, and 
     *   tape recorders (16), tools (#0 phillips, scissors, wire cutters), bags to store parts, duct tape was suggested to collect small pieces, sharpies/paper/pens
     *   link to pre-survey
 
-[Week 2]({{< baseurl >}}/pages/lecture-and-studio-notes/wk02)
+{{% resource_link 6b8945a5-6568-58af-2270-77538a80a7dd "Week 2" %}}
 -------------------------------------------------------------
 
 1.  Tape recorder reassembly
@@ -40,7 +44,7 @@ Following are materials needed for in-class activites during Weeks 1, 2, 4, and 
 3.  Play Decide
     *   Print out games (genetic testing) onto proper colored sheets but do not cut. Instead, distribute sheets with scissors to allow students to cut and save just the cards they found most relevant. Depending on room, may also want to print out rules of play since screen not easy to see and tables too crowded for computers. Leave enough time so discussion can be recapped as well as policy.
 
-[Week 4]({{< baseurl >}}/pages/lecture-and-studio-notes/wk04)
+{{% resource_link c54f2779-6b0a-a949-8b60-b5b85e7263fd "Week 4" %}}
 -------------------------------------------------------------
 
 1.  DNA isolation
@@ -67,7 +71,7 @@ Following are materials needed for in-class activites during Weeks 1, 2, 4, and 
     *   Liquid Amp media - For media, I mixed LB-Amp media pack - Invitrogen Q600-20 $169.00/20 pouches with bottled water and added isoamyl alcohol to 5mM - use this with the banana cultures
     *   14 mL culture tubes - VWR 60819-728
 
-[Week 8]({{< baseurl >}}/pages/lecture-and-studio-notes/wk08)
+{{% resource_link f717511d-c964-14a4-badf-cf6918fd3de0 "Week 8" %}}
 -------------------------------------------------------------
 
 1.  Get material for "Check's In The Mail" hypothesis challenge from [Judy Loundagin's lesson Web site](https://web.archive.org/web/20180305223402/http://www.indiana.edu/~ensiweb/natsc.fs.html) for the Evolution and Nature of Science Institutes.

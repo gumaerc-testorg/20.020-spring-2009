@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section provides information on the eighth assignment of the course.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 parent_title: Assignments
+parent_type: CourseSection
 parent_uid: f46140cd-e86a-d79a-318f-ba9b9f2dbf04
 title: PDP8 Recombinant DNA and Asilomar
 uid: d95fa243-cdab-2629-6017-a10a317dcc60
 ---
 
-[PDP1]({{< baseurl >}}/pages/assignments/20-020_assn) | [PDP2]({{< baseurl >}}/pages/assignments/pdp2) | [PDP3]({{< baseurl >}}/pages/assignments/pdp3) | [PDP4]({{< baseurl >}}/pages/assignments/pdp4) | [PDP5]({{< baseurl >}}/pages/assignments/pdp5) | [PDP6]({{< baseurl >}}/pages/assignments/pdp6) | [PDP7]({{< baseurl >}}/pages/assignments/pdp7) | PDP8
+{{% resource_link 7ef809ca-6e7c-c228-6009-9fdf144f91a5 "PDP1" %}} | {{% resource_link 748793de-af7d-1446-8239-f08710adb74a "PDP2" %}} | {{% resource_link c2228cb6-b321-79d4-e0d8-9b54555761a7 "PDP3" %}} | {{% resource_link bab8ac23-d57d-1829-c8f5-903bfbaf410b "PDP4" %}} | {{% resource_link f3d7a1ea-4cf9-5fa0-22ce-86ee40bc078a "PDP5" %}} | {{% resource_link 756e7778-79ee-8a5b-41b8-3cf5eefd127b "PDP6" %}} | {{% resource_link f891db08-de7e-ab21-9248-f82f1a25a5be "PDP7" %}} | PDP8
 
 There are three short parts to this assignment. You should spend no more than 1 hour reading the assigned chapter by Charles Weiner, and then answering these questions.
 
@@ -19,7 +24,7 @@ Part 1: What is Recombinant DNA?
 
 To illustrate your understanding of genetic engineering techniques, describe how you might make the DNA that programs the GloFish as described at [Wikipedia: Recombinant DNA](http://en.wikipedia.org/wiki/Recombinant_DNA).
 
-![Genetically modified flourescent fish.](/courses/biological-engineering/20-020-introduction-to-biological-engineering-design-spring-2009/assignments/500px_GloFish.jpg)
+{{< resource "be9fbdbb-1236-ee90-9115-587cbc5affe7" >}}
 
 [GloFish](http://en.wikipedia.org/wiki/GloFish) genetically modified flourescent fish. (Public domain image.)
 
@@ -48,7 +53,7 @@ Consider these three quotes and then
 
 > "The motive from the start was to avoid public interference and to demonstrate that the scientists on their own could protect laboratory workers, the public and the environment."
 
-**Quote 2:** from "Open Letter to the Asilomar Conference" written by Science for the People (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://profiles.nlm.nih.gov/DJ/B/B/H/F/_/djbbhf.pdf)):
+**Quote 2:** from "Open Letter to the Asilomar Conference" written by Science for the People ([PDF](http://profiles.nlm.nih.gov/DJ/B/B/H/F/_/djbbhf.pdf)):
 
 > "There is little evidence that the technologies being discussed at this meeting arise from social or medical needs of large segments of the population. Rather, they represent specialized interests including those of the scientific community itself."
 

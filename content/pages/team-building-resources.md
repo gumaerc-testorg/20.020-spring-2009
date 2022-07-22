@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section includes material on team building exercise, like team roles,
+  team activities, brainstorming sessions, and working through common team problems.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Team Building Resources
 uid: 59aef7d7-fdb0-1a1f-fd2b-9d9194f42dec
 ---

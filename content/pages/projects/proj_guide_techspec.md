@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: Project presentation guidelines.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: becca3d9-df0a-28ca-aa38-17ca41c1c55b
 title: 'Project Presentation Guidelines: Technical Specification Review'
 uid: dce3c24d-dc88-16f5-7ff7-e6660efae32d
 ---
 
-![Diagram of the project process, showing the scope of the Tech Spec Review presentation.](/courses/biological-engineering/20-020-introduction-to-biological-engineering-design-spring-2009/projects/TechSpecOrganizer.gif)
+{{< resource "9ad56597-b1d7-fd55-21d0-af6de60301af" >}}
 
 Tech Spec Review
 

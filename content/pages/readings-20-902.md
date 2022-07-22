@@ -1,12 +1,17 @@
 ---
 content_type: page
+description: This section lists the papers assigned to and presented by students in
+  the class. The content includes details on studio sessions, and paper presentations
+  and discussions, along with some additional readings.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Readings (20.902)
 uid: 7383cd6e-01ff-ea89-442e-1e74b3c4a721
 ---
 
 This page lists the papers assigned to and presented by 20.902 students in the 20.020 class. Each week during the 20.020 three-hour studio session, a 20.902 student leads a presentation and discussion on a relevant paper.
 
-Some additional readings for the 20.020 students are woven into their homework, as described on the [assignments]({{< baseurl >}}/pages/assignments) page.
+Some additional readings for the 20.020 students are woven into their homework, as described on the {{% resource_link f46140cd-e86a-d79a-318f-ba9b9f2dbf04 "assignments" %}} page.
 
 Schedule
 --------
@@ -41,7 +46,7 @@ How a small number of AA substitutions change activity of a protein
 
 Bushman, F. D., and M. Ptashne. "['Turning Lambda Cro Into a Transcriptional Activator](http://www.ncbi.nlm.nih.gov/pubmed/2968842)." _Cell_ 15, no. 2 (July 15, 1988): 191-7. PMID: 2968842
 
-Example review presentation ([PDF]({{< baseurl >}}/resources/mit20_020s09_read01_cro2))
+Example review presentation ({{% resource_link a67cb70d-880b-b444-e7a1-93634ec5699c "PDF" %}})
 
 ### Related readings to enjoy
 

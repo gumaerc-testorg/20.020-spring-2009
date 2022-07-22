@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: Project presentation guidelines for the final presentation of the course.
+learning_resource_types:
+- Projects
+ocw_type: CourseSection
 parent_title: Projects
+parent_type: CourseSection
 parent_uid: becca3d9-df0a-28ca-aa38-17ca41c1c55b
 title: 'Project Presentation Guidelines: Final Presentation'
 uid: 0adcd2f4-a2f1-421e-7ecb-49a644eed8fa
