@@ -5,6 +5,7 @@ file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT20_020S09_proj_onc15_3id.pdf
 uid: ba2c0bf0-1933-1ef8-4664-7fb0b05b224f
 ---
 This file includes notes on Cancer and its challenges. 
-

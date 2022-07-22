@@ -6,6 +6,7 @@ file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT20_020S09_prj1_log_smpl.pdf
 uid: c1f0de4c-2349-dd15-ff64-ad704cb4e219
 ---
 This file is a sample of a superb project log from prior year done by students and used with permission. 
-

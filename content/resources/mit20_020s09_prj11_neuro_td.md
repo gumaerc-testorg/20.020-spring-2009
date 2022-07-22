@@ -6,6 +6,7 @@ file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT20_020S09_prj11_neuro_td.pdf
 uid: 390dda4d-7244-4e24-c832-5b3657a5aa2c
 ---
 This file includes a narrative and technical documentation on the problem of sleeping. 
-

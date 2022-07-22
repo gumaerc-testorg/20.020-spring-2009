@@ -6,6 +6,7 @@ file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT20_020S09_prj23_trsh_sp.pdf
 uid: f031972c-1e76-39d9-f33d-7857555b41e0
 ---
 This file includes material on the problem of compost, and the possible solutions to deal with it. 
-

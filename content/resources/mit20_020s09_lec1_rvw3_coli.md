@@ -7,6 +7,7 @@ file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture and Studio Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: MIT20_020S09_lec1_rvw3_coli.pdf
 uid: e6bf8a07-4c75-6925-d42d-6676bded6272
 ---
 This file includes details on programming genetic logic, growth phases of bacterial cultures, ethical questions of human experimentation, and contains review of these processes. 
-

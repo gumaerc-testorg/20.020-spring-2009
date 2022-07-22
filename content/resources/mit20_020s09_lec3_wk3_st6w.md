@@ -6,6 +6,7 @@ file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture and Studio Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT20_020S09_lec3_wk3_st6w.pdf
 uid: 0c96afee-1aed-6f74-38a8-905bd05ce1be
 ---
 This file includes notes on process and product redesign, mitigating existing trash, and trash disposal. 
-

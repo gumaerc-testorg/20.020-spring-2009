@@ -5,6 +5,7 @@ file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT20_020S09_proj_neur_fin.pdf
 uid: 23d9c8e4-3d31-76ea-f46b-0732e5ba535b
 ---
 This resource contains final presentation of sleep-away.
-

@@ -6,6 +6,7 @@ file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: MIT20_020S09_prj22_trsh_cnt.pdf
 uid: 508a0da3-7aca-ed1e-2bc8-c91c4502b799
 ---
 This file includes details like goals, obstacles, meeting norms, work norms, deadlines, task distribution, etc. for the project. 
-
