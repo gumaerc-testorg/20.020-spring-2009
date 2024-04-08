@@ -67,7 +67,7 @@ Introducing Synthetic Biology
 
 _Do-It-Yourself Biology_: Natalie Kuldell and Reshma Shetty at the MIT Museum, January 14, 2009
 
-This video was produced and provided by [MITWorld](http://techtv.mit.edu/videos/16514-do-it-yourself-biology), and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "07d9213f-29e3-4694-a27a-87dfda4b6ac6" "MITWorld" %}}, and is not covered under our [Creative Commons license](/terms/#cc).
 
 This presentation and audience discussion briefly covers some of the synthetic biology concepts introduced in this class, and especially speaks to how amateurs and self-learners can work on this subject.In this 1 hour 10 minute program, the first 24 minutes are presentation;  then a group discussion is initiated by considering two questions:
 
@@ -76,7 +76,7 @@ This presentation and audience discussion briefly covers some of the synthetic
 
 _The Implications of Synthetic Biology_: Drew Endy at the MIT Museum, March 21, 2006
 
-This video was produced and provided by [MITWorld](http://techtv.mit.edu/videos/16457-the-implications-of-synthetic-biology), and is not covered under our [Creative Commons license](/terms/#cc).
+This video was produced and provided by {{% resource_link "1a61e5f6-0cf0-49d4-98da-86b329ba1b1f" "MITWorld" %}}, and is not covered under our [Creative Commons license](/terms/#cc).
 
 Course Details
 --------------
