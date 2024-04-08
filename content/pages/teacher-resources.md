@@ -13,7 +13,7 @@ Dr. Kuldell would welcome your feedback on this course. Please use the Feedback 
 Evaluation Report
 -----------------
 
-This report on the Spring 2008 version of 20.020 was produced by the [MIT Teaching and Learning Laboratory](https://tll.mit.edu/).
+This report on the Spring 2008 version of 20.020 was produced by the {{% resource_link "9e096dbd-359d-44b3-ba23-10f660827bb2" "MIT Teaching and Learning Laboratory" %}}.
 
 Mitchell, Rudolph. "A Pilot Study of Curriculum Innovations Implemented in a New Project-Based Subject, Introduction to Biological Engineering Design (20.020)." October 3, 2008. ({{% resource_link 06f5082b-a93d-ec44-c916-ada32d528489 "PDF" %}}) (Courtesy of Rudolph Mitchell. Used with permission.)
 
@@ -74,6 +74,6 @@ Following are materials needed for in-class activites during Weeks 1, 2, 4, and 
 {{% resource_link f717511d-c964-14a4-badf-cf6918fd3de0 "Week 8" %}}
 -------------------------------------------------------------
 
-1.  Get material for "Check's In The Mail" hypothesis challenge from [Judy Loundagin's lesson Web site](https://web.archive.org/web/20180305223402/http://www.indiana.edu/~ensiweb/natsc.fs.html) for the Evolution and Nature of Science Institutes.
+1.  Get material for "Check's In The Mail" hypothesis challenge from {{% resource_link "ab160774-ba4c-4cd2-8df4-3c917c6c1f45" "Judy Loundagin's lesson Web site" %}} for the Evolution and Nature of Science Institutes.
 2.  Material for Soap Stress troubleshooting challenge
     *   need 12 packages of bars of soap, paper, cardboard, handwipes
