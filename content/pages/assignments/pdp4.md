@@ -18,7 +18,7 @@ Part 1: Team Dynamics
 
 Listen to the first 10 minutes of a short radio program:
 
-"[Ruining It for the Rest of Us](http://www.thisamericanlife.org/Radio_Episode.aspx?sched=1275)." _This American Life_. Chicago Public Radio. December 19, 2008.
+"{{% resource_link "7404827b-6787-44b2-95be-382c237e0e6e" "Ruining It for the Rest of Us" %}}." _This American Life_. Chicago Public Radio. December 19, 2008.
 
 The introduction to this show describes the effect that "one bad apple" can have on a team's productivity, as well as the simple, almost magical way to counteract the effect. You can stop listening (if you want) when the host introduces Act I.
 
@@ -39,7 +39,7 @@ Now set some plan for development. Choose one aspect from the list above you'd l
 Part 2: Learning Styles
 -----------------------
 
-Next, take this [questionnaire](http://www.engr.ncsu.edu/learningstyles/ilsweb.html) to gauge your learning style. Take a screen shot of the results and paste it into the Word document you started for Part 1. Then read this [index of learning styles](http://www4.ncsu.edu/unity/lockers/users/f/felder/public/ILSdir/styles.htm) and add a few sentences to your Word document to say how well questionnaire's results match your own impressions of how you best learn.
+Next, take this {{% resource_link "f8cadb52-81aa-46da-ae81-ca74d139bdb0" "questionnaire" %}} to gauge your learning style. Take a screen shot of the results and paste it into the Word document you started for Part 1. Then read this {{% resource_link "af260732-8bc3-4d29-8210-5c6dfeeff3f3" "index of learning styles" %}} and add a few sentences to your Word document to say how well questionnaire's results match your own impressions of how you best learn.
 
 Time to Complete Team Dynamics and Learning Styles Assessment: 1 Hour Max.
 --------------------------------------------------------------------------
