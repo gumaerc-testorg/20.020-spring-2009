@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/eac410f7799e75c855ffcfd82e4ede09_TetRgene.jpg
+file_size: 32707
 file_type: image/jpeg
 image_metadata:
   caption: ''

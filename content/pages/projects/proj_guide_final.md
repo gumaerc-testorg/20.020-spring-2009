@@ -28,7 +28,7 @@ These technical documents must include:
 2.  A Device-level system diagram
 3.  A Timing Diagram
 4.  A Parts list (table)
-5.  A paragraph description of your spotlighted Part and where to find it in the {{% resource_link "fb7028ea-0e38-4176-b268-500c20b53b5f" "Registry of Standard Biological Parts" %}} 
+5.  A paragraph description of your spotlighted Part and where to find it in the [Registry of Standard Biological Parts](http://parts.igem.org/Main_Page) 
 6.  The DNA sequence for your key new part or device
 7.  A test/debug plan for that part and for your system or key intermediate device
 

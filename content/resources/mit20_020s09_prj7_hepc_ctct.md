@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file gives details about project, tean, and personal goals, along
   with meeting and work norms. '
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/d46c95d6089136789b6c29e8eb84460e_MIT20_020S09_prj7_hepc_ctct.pdf
+file_size: 28286
 file_type: application/pdf
 learning_resource_types:
 - Projects

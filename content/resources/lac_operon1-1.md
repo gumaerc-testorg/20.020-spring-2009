@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/4a6332bd52fd651be11555e012042a1e_Lac_operon1.gif
+file_size: 12842
 file_type: image/gif
 image_metadata:
   caption: ''

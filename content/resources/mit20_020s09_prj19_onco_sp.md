@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to tech spec review for oncucures.
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/bea9ecfa4f947bf851ad5038eb078661_MIT20_020S09_prj19_onco_sp.pdf
+file_size: 2926598
 file_type: application/pdf
 learning_resource_types:
 - Projects

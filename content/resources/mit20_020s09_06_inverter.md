@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/027ad5ae4dd7be083e5b6e05a2ab8df3_MIT20_020S09_06_inverter.jpg
+file_size: 4783
 file_type: image/jpeg
 image_metadata:
   caption: ''

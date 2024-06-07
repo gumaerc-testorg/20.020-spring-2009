@@ -3,6 +3,7 @@ content_type: resource
 description: 'This file includes details on parts, timing/system diagrams, and examples
   on testing/debugging for this topic. '
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/16915319b9cfa618bc17326ff2e3fee0_MIT20_020S09_prj12_neuro_td.pdf
+file_size: 1293763
 file_type: application/pdf
 learning_resource_types:
 - Projects

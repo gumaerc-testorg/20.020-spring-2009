@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/263e963a6e13edb62e4080d4ca143a22_3ideasOrganizer.gif
+file_size: 26821
 file_type: image/gif
 image_metadata:
   caption: ''
