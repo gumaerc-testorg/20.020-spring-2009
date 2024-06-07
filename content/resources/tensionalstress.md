@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/0a5f1ab1c7695421d2a2380867ac8b1f_TensionalStress.jpg
+file_size: 17246
 file_type: image/jpeg
 image_metadata:
   caption: ''

@@ -17,7 +17,7 @@ Design Features: An Animation Project to Teach Synthetic Biology
 
 Here are some storyboards from our first animation about iGEM. The script was written by Rebecca Adams, Isadora Deese, Drew Endy and Natalie Kuldell. Storyboarding by the talented folks at Animated Storyboards.
 
-Ultimately this and other animations will appear at {{% resource_link "b5d63df1-7316-4776-b2c8-7b304b5e3c2e" "BioBuilder" %}}.  The animations are also collected in this course's {{% resource_link "31a53ae4-8080-e2e1-23cc-03ee978bb1bd" "BioBuilder Animations" %}} page.
+Ultimately this and other animations will appear at [BioBuilder](http://www.biobuilder.org/).  The animations are also collected in this course's {{% resource_link "31a53ae4-8080-e2e1-23cc-03ee978bb1bd" "BioBuilder Animations" %}} page.
 
 {{< resource "3b993e0c-d163-fe2d-142e-e437daa643e9" >}}
 

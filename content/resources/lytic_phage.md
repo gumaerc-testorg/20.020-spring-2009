@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/5389dd661af01e63bf4e1cd070f5e188_lytic_phage.jpg
+file_size: 26465
 file_type: image/jpeg
 image_metadata:
   caption: ''

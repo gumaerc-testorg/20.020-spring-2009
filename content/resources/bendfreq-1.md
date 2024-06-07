@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/dfbef279d27d24c48eca183b8e339cce_BendFreq.jpg
+file_size: 28992
 file_type: image/jpeg
 image_metadata:
   caption: ''
