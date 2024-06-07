@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/5544719029d69782628ce4e83fd93a2b_biobricks.jpg
+file_size: 33343
 file_type: image/jpeg
 image_metadata:
   caption: ''

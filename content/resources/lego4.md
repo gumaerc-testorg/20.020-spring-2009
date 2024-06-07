@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/13fc7cff10ccc5c126322ae53d196a42_Lego4.jpg
+file_size: 67399
 file_type: image/jpeg
 image_metadata:
   caption: ''

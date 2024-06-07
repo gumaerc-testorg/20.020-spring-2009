@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/e65d1433656955c00bb558ea2fd43bf4_NOTdigitaltransfercurve.gif
+file_size: 4083
 file_type: image/gif
 image_metadata:
   caption: ''

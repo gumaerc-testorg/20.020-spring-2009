@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/23b7a750c30c8d6296f80b2af7bd2ef0_smiths_classic_wiring.gif
+file_size: 41483
 file_type: image/gif
 image_metadata:
   caption: ''
