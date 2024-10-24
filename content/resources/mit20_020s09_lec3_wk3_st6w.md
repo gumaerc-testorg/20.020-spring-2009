@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file includes notes on process and product redesign, mitigating
   existing trash, and trash disposal. '
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/0c96afee1aed6f7438a8905bd05ce1be_MIT20_020S09_lec3_wk3_st6w.pdf
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/0c96afee1aed6f7438a8905bd05ce1be_MIT20_020S09_lec3_wk3_st6w.pdf
 file_size: 78859
 file_type: application/pdf
 learning_resource_types:
