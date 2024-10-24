@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/5e6727bfe2023b595fa019ad65a8bfb8_StationaryBananas.gif
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/5e6727bfe2023b595fa019ad65a8bfb8_StationaryBananas.gif
 file_size: 7077
 file_type: image/gif
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/2f596ac83e91f48776327bfa49c26c6e_MIT20_020S09_05_abstraction.jpg
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/2f596ac83e91f48776327bfa49c26c6e_MIT20_020S09_05_abstraction.jpg
 file_size: 4773
 file_type: image/jpeg
 image_metadata:

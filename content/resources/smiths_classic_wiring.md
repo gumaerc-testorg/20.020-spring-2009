@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/65f8c98d52be9f4a107e3d2212fca922_smiths_classic_wiring.jpg
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/65f8c98d52be9f4a107e3d2212fca922_smiths_classic_wiring.jpg
 file_size: 41304
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains final presentation of sleep-away.
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/23d9c8e43d3176eaf46b0732e5ba535b_MIT20_020S09_proj_neur_fin.pdf
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/23d9c8e43d3176eaf46b0732e5ba535b_MIT20_020S09_proj_neur_fin.pdf
 file_size: 1450676
 file_type: application/pdf
 learning_resource_types:

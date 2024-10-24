@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file includes detailed report on the project log for Metastasis. '
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/872f79003a80969614d990d772853885_MIT20_020S09_prj18_onco_log.pdf
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/872f79003a80969614d990d772853885_MIT20_020S09_prj18_onco_log.pdf
 file_size: 157941
 file_type: application/pdf
 learning_resource_types:
