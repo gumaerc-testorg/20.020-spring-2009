@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file includes material on the problem of compost, and the possible
   solutions to deal with it. '
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/f031972c1e7639d9f33d7857555b41e0_MIT20_020S09_prj23_trsh_sp.pdf
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/f031972c1e7639d9f33d7857555b41e0_MIT20_020S09_prj23_trsh_sp.pdf
 file_size: 669007
 file_type: application/pdf
 learning_resource_types:

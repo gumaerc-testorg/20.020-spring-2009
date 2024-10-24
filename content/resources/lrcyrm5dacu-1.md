@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/0f89a8b77965f3e8767593982c29cce4_LRcYRm5daCU.pdf
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/0f89a8b77965f3e8767593982c29cce4_LRcYRm5daCU.pdf
 file_size: 19061
 file_type: application/pdf
 learning_resource_types: []

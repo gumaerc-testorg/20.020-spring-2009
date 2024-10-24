@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/20f58346645e6114afc2bb83ba97a3a9_Coliform.gif
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/20f58346645e6114afc2bb83ba97a3a9_Coliform.gif
 file_size: 32352
 file_type: image/gif
 image_metadata:
