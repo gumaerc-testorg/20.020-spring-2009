@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/0a6302afe932d29e98bbf31bb726f406_Analog_digitalcurves.jpg
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/0a6302afe932d29e98bbf31bb726f406_Analog_digitalcurves.jpg
 file_size: 23827
 file_type: image/jpeg
 image_metadata:

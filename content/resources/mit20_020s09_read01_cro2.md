@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file is an example review presentation. '
-file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/a67cb70d880bb444e7a193634ec5699c_MIT20_020S09_read01_cro2.pdf
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/a67cb70d880bb444e7a193634ec5699c_MIT20_020S09_read01_cro2.pdf
 file_size: 495158
 file_type: application/pdf
 learning_resource_types: []

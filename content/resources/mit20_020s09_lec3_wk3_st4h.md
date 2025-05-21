@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file includes notes on topics like sleep, memory loss, anorexia,
   Huntington?s disease, etc. '
-file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/b2406f5406a8b5be35ea742ce79319b5_MIT20_020S09_lec3_wk3_st4h.pdf
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/b2406f5406a8b5be35ea742ce79319b5_MIT20_020S09_lec3_wk3_st4h.pdf
 file_size: 2902826
 file_type: application/pdf
 learning_resource_types:
