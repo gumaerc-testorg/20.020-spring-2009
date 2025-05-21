@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to proliferation.
-file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/1d01732bf50719f6b0d324e659fc8a42_MIT20_020S09_lec3_wk3_st2g.pdf
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/1d01732bf50719f6b0d324e659fc8a42_MIT20_020S09_lec3_wk3_st2g.pdf
 file_size: 87496
 file_type: application/pdf
 learning_resource_types:

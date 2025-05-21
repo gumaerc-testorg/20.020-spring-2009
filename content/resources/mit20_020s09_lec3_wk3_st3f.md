@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This lecture includes notes on biofuels and their related problems and
   issues, and potential solutions. '
-file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/f91aecbfb44c389b000233bbf9505686_MIT20_020S09_lec3_wk3_st3f.pdf
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/f91aecbfb44c389b000233bbf9505686_MIT20_020S09_lec3_wk3_st3f.pdf
 file_size: 61608
 file_type: application/pdf
 learning_resource_types:

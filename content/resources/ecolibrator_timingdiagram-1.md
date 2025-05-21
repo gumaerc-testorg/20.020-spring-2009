@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/b9bd4401ff5b0de0d1fe644d7f364503_Ecolibrator_TimingDiagram.jpg
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/b9bd4401ff5b0de0d1fe644d7f364503_Ecolibrator_TimingDiagram.jpg
 file_size: 35167
 file_type: image/jpeg
 image_metadata:
