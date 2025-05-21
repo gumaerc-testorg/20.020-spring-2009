@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to Alzheimer.
-file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/cbd38ec0cfb740e13914e16df5497bc3_MIT20_020S09_prj10_neuro_sp.pdf
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/cbd38ec0cfb740e13914e16df5497bc3_MIT20_020S09_prj10_neuro_sp.pdf
 file_size: 2035162
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains information related to treatment of hepatitis
   C.
-file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/31a618a04e1395e42fb441a281d76f12_MIT20_020S09_proj_hepc_fin.pdf
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/31a618a04e1395e42fb441a281d76f12_MIT20_020S09_proj_hepc_fin.pdf
 file_size: 873320
 file_type: application/pdf
 learning_resource_types:

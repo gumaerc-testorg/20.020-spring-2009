@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file includes notes on Cancer and its challenges. '
-file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/ba2c0bf019331ef846647fb0b05b224f_MIT20_020S09_proj_onc15_3id.pdf
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/ba2c0bf019331ef846647fb0b05b224f_MIT20_020S09_proj_onc15_3id.pdf
 file_size: 239083
 file_type: application/pdf
 learning_resource_types:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file includes material on Dynamic?Metastasis?Imaging. '
-file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/7cdd0523bedd2574c4a1e369fb501d9f_MIT20_020S09_prj20_onco_td.pdf
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/7cdd0523bedd2574c4a1e369fb501d9f_MIT20_020S09_prj20_onco_td.pdf
 file_size: 243000
 file_type: application/pdf
 learning_resource_types:

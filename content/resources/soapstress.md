@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/a9528b5ce2ae9c2dea87d3379df7d5b7_soapstress.gif
+file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/a9528b5ce2ae9c2dea87d3379df7d5b7_soapstress.gif
 file_size: 13104
 file_type: image/gif
 image_metadata:
