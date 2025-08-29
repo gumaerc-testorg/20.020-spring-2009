@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file includes content on Cancer, and Metastasis, along with potential
   problemsand solutions. '
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/c32aaf4a77758521faf716f53d65bc64_MIT20_020S09_prj17_onco_fnp.pdf
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/c32aaf4a77758521faf716f53d65bc64_MIT20_020S09_prj17_onco_fnp.pdf
 file_size: 879551
 file_type: application/pdf
 learning_resource_types:

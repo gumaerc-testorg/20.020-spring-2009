@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file includes a narrative and technical documentation on the problem
   of sleeping. '
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/390dda4d72444e24c8325b3657a5aa2c_MIT20_020S09_prj11_neuro_td.pdf
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/390dda4d72444e24c8325b3657a5aa2c_MIT20_020S09_prj11_neuro_td.pdf
 file_size: 33653
 file_type: application/pdf
 learning_resource_types:

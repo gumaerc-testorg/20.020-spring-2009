@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file includes material on the energy/resources challenges and their
   importance, and the solutions along with their impact. '
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/91e73be5049d305525f8a4588148f3a6_MIT20_020S09_proj13_nrg_3id.pdf
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/91e73be5049d305525f8a4588148f3a6_MIT20_020S09_proj13_nrg_3id.pdf
 file_size: 398374
 file_type: application/pdf
 learning_resource_types:
