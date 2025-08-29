@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/39992fec9b47567b49cabbf17012ff23_Arsen_Dev_level.gif
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/39992fec9b47567b49cabbf17012ff23_Arsen_Dev_level.gif
 file_size: 29552
 file_type: image/gif
 image_metadata:

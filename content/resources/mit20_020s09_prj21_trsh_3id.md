@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file includes material on problems with trash, and overview and
   goals for sub-topics. '
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/056269c290a1c5b594aeedb508dd7c1b_MIT20_020S09_prj21_trsh_3id.pdf
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/056269c290a1c5b594aeedb508dd7c1b_MIT20_020S09_prj21_trsh_3id.pdf
 file_size: 793153
 file_type: application/pdf
 learning_resource_types:

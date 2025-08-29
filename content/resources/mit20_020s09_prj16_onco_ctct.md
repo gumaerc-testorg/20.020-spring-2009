@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: 'This file includes details for class project work on Cancer treatment. '
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/72a79b9f97b47040b5d305f84cc601e2_MIT20_020S09_prj16_onco_ctct.pdf
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/72a79b9f97b47040b5d305f84cc601e2_MIT20_020S09_prj16_onco_ctct.pdf
 file_size: 83853
 file_type: application/pdf
 learning_resource_types:
