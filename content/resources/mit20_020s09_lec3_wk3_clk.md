@@ -2,7 +2,7 @@
 content_type: resource
 description: 'This file includes some framing information about counting and clocks
   in biology. '
-file: /courses/20-020-introduction-to-biological-engineering-design-spring-2009/892a1e0737d79867ed9c23e0ae828546_MIT20_020S09_lec3_wk3_clk.pdf
+file: /ol-ocw-studio-app/courses/20-020-introduction-to-biological-engineering-design-spring-2009/892a1e0737d79867ed9c23e0ae828546_MIT20_020S09_lec3_wk3_clk.pdf
 file_size: 418218
 file_type: application/pdf
 learning_resource_types:
