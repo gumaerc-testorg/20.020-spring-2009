@@ -22,11 +22,11 @@ Weiner, Charles. "Recombinant DNA, Policy, Asilomar." In _Encyclopedia of Ethica
 Part 1: What is Recombinant DNA?
 --------------------------------
 
-To illustrate your understanding of genetic engineering techniques, describe how you might make the DNA that programs the GloFish as described at [Wikipedia: Recombinant DNA](http://en.wikipedia.org/wiki/Recombinant_DNA).
+To illustrate your understanding of genetic engineering techniques, describe how you might make the DNA that programs the GloFish as described at {{% resource_link "fb7af7e4-c542-431d-814f-aee0096ebb55" "Wikipedia: Recombinant DNA" %}}.
 
 {{< resource "be9fbdbb-1236-ee90-9115-587cbc5affe7" >}}
 
-[GloFish](http://en.wikipedia.org/wiki/GloFish) genetically modified flourescent fish. (Public domain image.)
+{{% resource_link "f95b6492-3976-4225-9fbf-7463b2f341d9" "GloFish" %}} genetically modified flourescent fish. (Public domain image.)
 
 Call the gene for glowing "GFG" and the fish plasmid "pFP."
 
@@ -53,11 +53,11 @@ Consider these three quotes and then
 
 > "The motive from the start was to avoid public interference and to demonstrate that the scientists on their own could protect laboratory workers, the public and the environment."
 
-**Quote 2:** from "Open Letter to the Asilomar Conference" written by Science for the People ([PDF](http://profiles.nlm.nih.gov/DJ/B/B/H/F/_/djbbhf.pdf)):
+**Quote 2:** from "Open Letter to the Asilomar Conference" written by Science for the People ({{% resource_link "5a2633e1-41d5-4af5-8194-4897e4d57e3a" "PDF" %}}):
 
 > "There is little evidence that the technologies being discussed at this meeting arise from social or medical needs of large segments of the population. Rather, they represent specialized interests including those of the scientific community itself."
 
-**Quote 3:** from "[Summary Statement of the Asilomar Conference](http://www.pnas.org/content/72/6/1981.full.pdf+html?ck=nck)" written by Paul Berg, et al., and published in Proceedings of the National Academy of Science:
+**Quote 3:** from "{{% resource_link "923efa50-1d5a-44e8-acf9-17b945ba52d8" "Summary Statement of the Asilomar Conference" %}}" written by Paul Berg, et al., and published in Proceedings of the National Academy of Science:
 
 > "In the longer term, serious problems may arise in the large scale application of this methodology in industry, medicine and agriculture. But it was also recognized that further research and experience may show that many of the potential biohazards are less serious and/or less probable than we now suspect."
 

@@ -8,11 +8,11 @@ ocw_type: CourseSection
 title: Team Building Resources
 uid: 59aef7d7-fdb0-1a1f-fd2b-9d9194f42dec
 ---
-Glossary of useful terms for team building and teamwork: "[Fight Your Way to Breakthroughs](http://the99percent.com/tips/5673/fight-your-way-to-breakthroughs)."
+Glossary of useful terms for team building and teamwork: "{{% resource_link "060fca88-8c11-4642-9ab1-d5c01b5b59ed" "Fight Your Way to Breakthroughs" %}}."
 
 ## Part 1: Team Roles
 
-(Adapted from this **teach** Engineering lesson: "[TE Activity: Team Up!](http://www.teachengineering.com/view_activity.php?url=http://www.teachengineering.com/collection/cub_/activities/cub_mechanics/cub_mechanics_lesson07_activity2.xml)")
+(Adapted from this **teach** Engineering lesson: "{{% resource_link "5337a890-eb8a-4062-ad78-7d8d61477231" "TE Activity: Team Up!" %}}")
 
 There are three necessary kinds of roles that individuals play when they are members of a team. There is a fourth undesirable but possible role. Note that individual team members often plays more than one role and some roles may require more than one person (sub-committee).
 
@@ -23,15 +23,15 @@ There are three necessary kinds of roles that individuals play when they are mem
 
 \*\*An insightful and interesting read on the subject of dysfunctional team-mates (aka "bad apples") and their consequences to team dynamics is this article:
 
-> Felps, W., T. R. Mitchell, and E. Byington. "How, When and Why Bad Apples Spoil the Barrel: Negative Group Members and Disfunctional Groups." *Research in Organizational Behavior* 27 (2006): 175-222. [DOI:10.1016/S0191-3085(06)27005-9](http://hdl.handle.net/10.1016/S0191-3085(06)27005-9)
+> Felps, W., T. R. Mitchell, and E. Byington. "How, When and Why Bad Apples Spoil the Barrel: Negative Group Members and Disfunctional Groups." *Research in Organizational Behavior* 27 (2006): 175-222. {{% resource_link "b059bef2-8ecd-46ec-bb7d-e03955886db9" "DOI:10.1016/S0191-3085(06)27005-9" %}}
 
 The work is also described in this audio interview with paper author Will Felps:
 
-> "[Ruining It For the Rest of Us](https://www.thisamericanlife.org/370/ruining-it-for-the-rest-of-us)." *This American Life*, episode 370, December 19, 2008. Chicago Public Radio.
+> "{{% resource_link "90f3452e-2695-4b04-ae89-3b05ddba60ee" "Ruining It For the Rest of Us" %}}." *This American Life*, episode 370, December 19, 2008. Chicago Public Radio.
 
 ## Part 2: Life Cycles Common to Many Teams
 
-(Adapted from observations and descriptions of educational psychologist Bruce Tuckman, summarized in this TEACH Engineering lesson: "[TE Activity: Team Up!](http://www.teachengineering.com/view_activity.php?url=http://www.teachengineering.com/collection/cub_/activities/cub_mechanics/cub_mechanics_lesson07_activity2.xml)")
+(Adapted from observations and descriptions of educational psychologist Bruce Tuckman, summarized in this TEACH Engineering lesson: "{{% resource_link "5337a890-eb8a-4062-ad78-7d8d61477231" "TE Activity: Team Up!" %}}")
 
 In the 1960s, **Bruce Tuckman** developed an influential model of the four stages of group development: Forming, Storming, Norming, Performing and he later added a fifth stage: Adjourning.
 
@@ -44,7 +44,7 @@ In the 1960s, **Bruce Tuckman** developed an influential model of the four stage
 ## Part 3: Brainstorming Sessions
 
 (Adapted from: Scholtes, Peter, et al. *The Team Handbook*. 3rd ed. Madison, WI: Oriel Incorporated, 2003. ISBN: 9781884731266. \[\[Preview\](  
-[http://books.google.com/books?id=ZCW8b3uai04C&pg=PAfrontcover](http://books.google.com/books?id=ZCW8b3uai04C&pg=PAfrontcover)) in Google Books.\])
+{{% resource_link "e4b18f61-90c9-4f4d-93a1-c8df6d8bd27a" "http://books.google.com/books?id=ZCW8b3uai04C&pg=PAfrontcover" %}}) in Google Books.\])
 
 Do's and Don'ts for a brainstorming session:
 
@@ -58,7 +58,7 @@ Successful brainstorming sessions require that everyone be clear on the goal so 
 
 ## Part 4: Working Through Common Team Problems
 
-(Adapted from: Scholtes, Peter, et al. *The Team Handbook*. 3rd ed. Madison, WI: Oriel Incorporated, 2003. ISBN: 9781884731266. \[[Preview](http://books.google.com/books?id=ZCW8b3uai04C) in Google Books.\])
+(Adapted from: Scholtes, Peter, et al. *The Team Handbook*. 3rd ed. Madison, WI: Oriel Incorporated, 2003. ISBN: 9781884731266. \[{{% resource_link "974bd1a7-7595-4972-aa95-f57e0dd9eebc" "Preview" %}} in Google Books.\])
 
 Great teams make the most of individual strengths and minimize individual weaknesses, but you and your teammates are still human and problems can arise even on the most functional of teams. Some common problems and some solutions are:
 

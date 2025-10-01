@@ -13,9 +13,9 @@ uid: f891db08-de7e-ab21-9248-f82f1a25a5be
 ---
 {{% resource_link "7ef809ca-6e7c-c228-6009-9fdf144f91a5" "PDP1" %}} | {{% resource_link "748793de-af7d-1446-8239-f08710adb74a" "PDP2" %}} | {{% resource_link "c2228cb6-b321-79d4-e0d8-9b54555761a7" "PDP3" %}} | {{% resource_link "bab8ac23-d57d-1829-c8f5-903bfbaf410b" "PDP4" %}} | {{% resource_link "f3d7a1ea-4cf9-5fa0-22ce-86ee40bc078a" "PDP5" %}} | {{% resource_link "756e7778-79ee-8a5b-41b8-3cf5eefd127b" "PDP6" %}} | PDP7 | {{% resource_link "d95fa243-cdab-2629-6017-a10a317dcc60" "PDP8" %}}
 
-You can find the term "biohacking" and "DIYbio" (for "Do It Yourself Biology) increasingly tossed into conversations and presentations. There are examples ranging from "how to" Web sites to Charles Vest's [2007 MIT commencement address](http://web.mit.edu/newsoffice/2007/comm-vestspeech-0608.html). Begin your follow-up work from today's lecture by reading this:
+You can find the term "biohacking" and "DIYbio" (for "Do It Yourself Biology) increasingly tossed into conversations and presentations. There are examples ranging from "how to" Web sites to Charles Vest's {{% resource_link "c7be6e7d-6112-468e-9404-420002fcb90e" "2007 MIT commencement address" %}}. Begin your follow-up work from today's lecture by reading this:
 
-Dyson, Freeman. "[Our Biotech Future](http://www.nybooks.com/articles/20370)." *The New York Review of Books* 54, no. 12 (July 19, 2007).
+Dyson, Freeman. "{{% resource_link "c82a644c-14f2-4fee-8c38-897a8464752b" "Our Biotech Future" %}}." *The New York Review of Books* 54, no. 12 (July 19, 2007).
 
 He foresees a domestication of biotechnology that will dominate our lives for the next 50 years. He foresees an "era of Open Source biology (in which) the magic of genes will be available to anyone with the skill and imagination to use it."
 
