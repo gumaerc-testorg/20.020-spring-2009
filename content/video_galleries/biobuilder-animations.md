@@ -24,11 +24,11 @@ videos:
   website: 20-020-introduction-to-biological-engineering-design-spring-2009
 ---
 
-[BioBuilder](http://www.biobuilder.org/)® is a resource for hands-on activities and informative animations on synthetic biology, and a place to discuss the challenge of engineering biological systems.
+{{% resource_link "7a9461e6-d188-4e32-91a9-587a0bcf7cd1" "BioBuilder" %}}® is a resource for hands-on activities and informative animations on synthetic biology, and a place to discuss the challenge of engineering biological systems.
 
 In 20.020, several BioBuilder animations are used as learning materials in the weekly classroom and lab activities. The full set of animations are posted below for reference.
 
-In addition to these animations, the [BioBuilder](http://www.biobuilder.org/) website includes these other synthetic biology resources.
+In addition to these animations, the {{% resource_link "7a9461e6-d188-4e32-91a9-587a0bcf7cd1" "BioBuilder" %}} website includes these other synthetic biology resources.
 
 *   A sequence of introductory Bioprimer activities
 *   For teachers, detailed instructor’s notes and supporting materials to help you bring BioBuilder into your classroom
@@ -47,6 +47,6 @@ About BioBuilder
 
 Started in 2007 at MIT, BioBuilder was created under the direction of Natalie Kuldell in response to numerous requests for synthetic biology learning materials from policy makers, environmental groups, and members of the media needing to know more about the basic biology involved, as well as scientists wanting to know more about engineering aspects of the field.
 
-A two-minute video introduction: BioBuilderTV. "[About\_BioBuilder](http://www.youtube.com/user/BioBuilderTV?feature=mhum#p/a/f/0/P9Ndh29V3WY)." January 13, 2011. YouTube. Accessed March 4, 2011.
+A two-minute video introduction: BioBuilderTV. "{{% resource_link "e4f09fe7-66a6-4dd7-b258-b13a574bf7f5" "About\_BioBuilder" %}}." January 13, 2011. YouTube. Accessed March 4, 2011.
 
-[Learn more »](http://www.biobuilder.org/about/)
+{{% resource_link "b407600e-c6c3-4729-8b95-5eca5367e9da" "Learn more »" %}}

@@ -44,7 +44,7 @@ How a small number of AA substitutions change activity of a protein
 {{< tdopen >}}
 
 
-Bushman, F. D., and M. Ptashne. "['Turning Lambda Cro Into a Transcriptional Activator](http://www.ncbi.nlm.nih.gov/pubmed/2968842)." _Cell_ 15, no. 2 (July 15, 1988): 191-7. PMID: 2968842
+Bushman, F. D., and M. Ptashne. "{{% resource_link "d95512b6-f7c8-48a5-9161-d1c6da62606e" "'Turning Lambda Cro Into a Transcriptional Activator" %}}." _Cell_ 15, no. 2 (July 15, 1988): 191-7. PMID: 2968842
 
 Example review presentation ({{% resource_link a67cb70d-880b-b444-e7a1-93634ec5699c "PDF" %}})
 
@@ -69,7 +69,7 @@ Computational design of novel protein activities
 
 {{< tdclose >}}
 {{< tdopen >}}
-Humphris, E. L., and T. Kortemme. "[Design of Multi-Specificity in Protein Interfaces](http://hdl.handle.net/10.1371/journal.pcbi.0030164)." _PLoS Computational Biology_ 3, no. 8 (2007): e164. DOI: 10.1371/journal.pcbi.0030164
+Humphris, E. L., and T. Kortemme. "{{% resource_link "d4f9ef7a-69a3-4105-8aaa-ae36314d4666" "Design of Multi-Specificity in Protein Interfaces" %}}." _PLoS Computational Biology_ 3, no. 8 (2007): e164. DOI: 10.1371/journal.pcbi.0030164
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -84,7 +84,7 @@ Proteins are modular too
 
 {{< tdclose >}}
 {{< tdopen >}}
-Jin. T., and M. Inouye. "[Ligand Binding to the Receptor Domain Regulates the Ratio of Kinase to Phosphatase Activities of the Signaling Domain of the Hybrid Escherichia Coli Transmembrane Receptor, Taz1](http://www.ncbi.nlm.nih.gov/pubmed/8393937)." _J Mol Biol_ 232, no. 2 (1993): 484-92. PMID: 8393937
+Jin. T., and M. Inouye. "{{% resource_link "910c11f0-41dc-428b-9c96-81eda41fea1d" "Ligand Binding to the Receptor Domain Regulates the Ratio of Kinase to Phosphatase Activities of the Signaling Domain of the Hybrid Escherichia Coli Transmembrane Receptor, Taz1" %}}." _J Mol Biol_ 232, no. 2 (1993): 484-92. PMID: 8393937
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +99,7 @@ DNA elements are modular too, allowing for circuits, but circuits don't always w
 
 {{< tdclose >}}
 {{< tdopen >}}
-Anderson, J. C., C. Voigt, and A. P. Arkin. "[Environmental Signal Integration by a Modular AND Gate](http://hdl.handle.net/10.1038/msb4100173)." _Molecular Systems Biology_ 3, no. 133 (2007). DOI: 10.1038/msb4100173
+Anderson, J. C., C. Voigt, and A. P. Arkin. "{{% resource_link "2e289bc0-e0fc-4f4d-858e-bfded5ef237b" "Environmental Signal Integration by a Modular AND Gate" %}}." _Molecular Systems Biology_ 3, no. 133 (2007). DOI: 10.1038/msb4100173
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +114,7 @@ Directed evolution at the parts and device level
 
 {{< tdclose >}}
 {{< tdopen >}}
-Saito, H., and T. Inoue. "[RNA and RNP as New Molecular Parts in Synthetic Biology](http://hdl.handle.net/10.1016/j.jbiotec.2007.07.952)." _Journal of Biotechnology_ 132, no. 1 (2007): 1-7. DOI: 10.1016/j.jbiotec.2007.07.952
+Saito, H., and T. Inoue. "{{% resource_link "97a263f4-d51d-4ef6-9e03-2b9f3b42d0e4" "RNA and RNP as New Molecular Parts in Synthetic Biology" %}}." _Journal of Biotechnology_ 132, no. 1 (2007): 1-7. DOI: 10.1016/j.jbiotec.2007.07.952
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -129,7 +129,7 @@ Nature's constraints on genetic circuit design
 
 {{< tdclose >}}
 {{< tdopen >}}
-Blake, W. J., et al. "[Phenotypic Consequences of Promoter-mediated Transcriptional Noise](http://hdl.handle.net/10.1016/j.molcel.2006.11.003)." _Molecular Cell_ 24, no. 6 (2006): 853-65. DOI: 10.1016/j.molcel.2006.11.003
+Blake, W. J., et al. "{{% resource_link "ed4ee3fc-a6d4-4edf-b7fd-92fba43f357e" "Phenotypic Consequences of Promoter-mediated Transcriptional Noise" %}}." _Molecular Cell_ 24, no. 6 (2006): 853-65. DOI: 10.1016/j.molcel.2006.11.003
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -144,7 +144,7 @@ Functional composition at the device level
 
 {{< tdclose >}}
 {{< tdopen >}}
-Maeder, M. L., et. al. "[Rapid "open-source" Engineering of Customized Zinc-finger Nucleases for Highly Efficient Gene Modification](http://hdl.handle.net/10.1016/j.molcel.2008.06.016)." _Molecular Cell_ 31, no. 2 (2008): 294-301. DOI: 10.1016/j.molcel.2008.06.016
+Maeder, M. L., et. al. "{{% resource_link "dcaa786f-7113-4599-bf81-d2c3a9615536" "Rapid \"open-source\" Engineering of Customized Zinc-finger Nucleases for Highly Efficient Gene Modification" %}}." _Molecular Cell_ 31, no. 2 (2008): 294-301. DOI: 10.1016/j.molcel.2008.06.016
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -161,11 +161,11 @@ DNA construction and editing technologies
 {{< tdopen >}}
 
 
-Shao, Z., and H. Zhao. "[DNA Assembler, An _in vivo_ Genetic Method for Rapid Construction of Biochemical Pathways](http://dx.doi.org/10.1093/nar/gkn991)." _Nucleic Acids Res_ 37, no. 2 (December 12, 2008): e16. DOI: 10.1093/nar/gkn991
+Shao, Z., and H. Zhao. "{{% resource_link "08881bb4-298f-4da8-abd5-f72b224aa4eb" "DNA Assembler, An _in vivo_ Genetic Method for Rapid Construction of Biochemical Pathways" %}}." _Nucleic Acids Res_ 37, no. 2 (December 12, 2008): e16. DOI: 10.1093/nar/gkn991
 
 ### Related reading to enjoy
 
-Stemmer, W. P., et al. "[Single-step Assembly of a Gene and Entire Plasmid from Large Numbers of Oligodeoxyribonucleotides](http://dx.doi.org/10.1016/0378-1119%2895%2900511-4)." _Gene_ 164, no. 1 (October 16, 1995): 49-53. DOI: 10.1016/0378-1119(95)00511-4
+Stemmer, W. P., et al. "{{% resource_link "c444b6ba-85e5-46df-97ba-8afd5e37ec80" "Single-step Assembly of a Gene and Entire Plasmid from Large Numbers of Oligodeoxyribonucleotides" %}}." _Gene_ 164, no. 1 (October 16, 1995): 49-53. DOI: 10.1016/0378-1119(95)00511-4
 
 
 {{< tdclose >}}
@@ -182,7 +182,7 @@ What is the state of the art?
 
 {{< tdclose >}}
 {{< tdopen >}}
-Skerker, J. M., et al. "[Rewiring the Specificity of Two-component Signal Transduction Systems](http://hdl.handle.net/10.1016/j.cell.2008.04.040)." _Cell_ 133, no. 6 (2008): 1043-54. DOI: 10.1016/j.cell.2008.04.040
+Skerker, J. M., et al. "{{% resource_link "b4913299-7d06-4207-9cde-e2059f9b7381" "Rewiring the Specificity of Two-component Signal Transduction Systems" %}}." _Cell_ 133, no. 6 (2008): 1043-54. DOI: 10.1016/j.cell.2008.04.040
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,11 +199,11 @@ Once you've got the DNA, where do you put it? Introducing... THE CHASSIS
 {{< tdopen >}}
 
 
-Osawa, M., D. E. Anderson, and H. P. Erickson. "[Reconstitution of Contractile FtsZ Rings in Liposomes](http://hdl.handle.net/10.1126/science.1154520)." _Science_ 320, no. 5877 (2008): 792-4. DOI: 10.1126/science.1154520
+Osawa, M., D. E. Anderson, and H. P. Erickson. "{{% resource_link "3d9edf2b-befb-43f3-94d2-d03f8f8aa051" "Reconstitution of Contractile FtsZ Rings in Liposomes" %}}." _Science_ 320, no. 5877 (2008): 792-4. DOI: 10.1126/science.1154520
 
 ### Related reading to enjoy
 
-Pósfai, G., et al. "[Emergent Properties of Reduced-genome Escherichia Coli](http://hdl.handle.net/10.1126/science.1126439)." _Science_ 312, no. 5776 (2006): 1044-6. DOI: 10.1126/science.1126439
+Pósfai, G., et al. "{{% resource_link "f2e2338d-5c36-4170-853b-b7fe3ec12b4a" "Emergent Properties of Reduced-genome Escherichia Coli" %}}." _Science_ 312, no. 5776 (2006): 1044-6. DOI: 10.1126/science.1126439
 
 
 {{< tdclose >}}
@@ -220,7 +220,7 @@ Getting DNA to speak in binary
 
 {{< tdclose >}}
 {{< tdopen >}}
-Portney, N. G., et al. "[Length-based Encoding of Binary Data in DNA](http://hdl.handle.net/10.1021/la703235y)." _Langmuir_ 24, no. 5 (2008): 1613-6. DOI: 10.1021/la703235y
+Portney, N. G., et al. "{{% resource_link "f62bbcf9-0481-4fb9-983b-ea816276054d" "Length-based Encoding of Binary Data in DNA" %}}." _Langmuir_ 24, no. 5 (2008): 1613-6. DOI: 10.1021/la703235y
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -235,7 +235,7 @@ System dynamics
 
 {{< tdclose >}}
 {{< tdopen >}}
-Bashor, C. J., et al. "[Using Engineered Scaffold Interactions to Reshape MAP Kinase Pathway Signaling Dynamics](http://hdl.handle.net/10.1126/science.1151153)." _Science_ 319, no. 5869 (2008): 1539-1543. DOI: 10.1126/science.1151153
+Bashor, C. J., et al. "{{% resource_link "c78ff95b-1bb0-4158-a4bb-e361db58d8b7" "Using Engineered Scaffold Interactions to Reshape MAP Kinase Pathway Signaling Dynamics" %}}." _Science_ 319, no. 5869 (2008): 1539-1543. DOI: 10.1126/science.1151153
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -250,7 +250,7 @@ Building patterns and memories
 
 {{< tdclose >}}
 {{< tdopen >}}
-Ajo-Franklin, C. M., et al. "[Rational Design of Memory in Eukaryotic Cells](http://hdl.handle.net/10.1101/gad.1586107)." _Genes Dev_ 21, no. 18 (2007): 2271-6. DOI: 10.1101/gad.1586107
+Ajo-Franklin, C. M., et al. "{{% resource_link "399b4572-4c73-4915-81a9-5ca8bad2b624" "Rational Design of Memory in Eukaryotic Cells" %}}." _Genes Dev_ 21, no. 18 (2007): 2271-6. DOI: 10.1101/gad.1586107
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -267,11 +267,11 @@ Property rights in synthetic biology
 {{< tdopen >}}
 
 
-Rai A., Boyle. "[Synthetic Biology: Caught Between Property Rights, The Public Domain, and The Commons](http://hdl.handle.net/10.1371/journal.pbio.0050058)." _J PLoS Biol_ 5, no. 3 (2007): e58. DOI:10.1371/journal.pbio.0050058
+Rai A., Boyle. "{{% resource_link "c9254254-1f82-47d7-9d0d-3163a650c814" "Synthetic Biology: Caught Between Property Rights, The Public Domain, and The Commons" %}}." _J PLoS Biol_ 5, no. 3 (2007): e58. DOI:10.1371/journal.pbio.0050058
 
 ### Related reading to enjoy
 
-Kaye, J., N. Hawkins, and J. Taylor. "[Patents and Translational Research in Genomics](http://hdl.handle.net/10.1038/nbt0707-739)." _Nature Biotech_ 25, no. 7 (2007): 739-741. DOI: 10.1038/nbt0707-739
+Kaye, J., N. Hawkins, and J. Taylor. "{{% resource_link "1e963d50-c618-4439-b684-552c52499c39" "Patents and Translational Research in Genomics" %}}." _Nature Biotech_ 25, no. 7 (2007): 739-741. DOI: 10.1038/nbt0707-739
 
 
 {{< tdclose >}}
@@ -288,7 +288,7 @@ Safety!
 
 {{< tdclose >}}
 {{< tdopen >}}
-Samuel, G. N., M. J. Selgelid, and I. Kerridge. "[Managing the Unimaginable. Regulatory Responses to the Challenges Posed by Synthetic Biology and Synthetic Genomics](http://hdl.handle.net/10.1038/embor.2008.232)." _EMBO Reports_ 10, no. 1 (2009): 7-11. DOI: 10.1038/embor.2008.232
+Samuel, G. N., M. J. Selgelid, and I. Kerridge. "{{% resource_link "d9fc53c7-199a-45a0-930b-b97debf4c3eb" "Managing the Unimaginable. Regulatory Responses to the Challenges Posed by Synthetic Biology and Synthetic Genomics" %}}." _EMBO Reports_ 10, no. 1 (2009): 7-11. DOI: 10.1038/embor.2008.232
 {{< tdclose >}}
 
 {{< trclose >}}
