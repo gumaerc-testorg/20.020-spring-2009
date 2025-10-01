@@ -15,13 +15,13 @@ uid: c2228cb6-b321-79d4-e0d8-9b54555761a7
 
 Over the next week we'll be turning the letter you wrote into a script and then later a storyboard. The script should be fun to write and doesn't have to win you a Pulitzer Prize since you'll be turning it into a comic book.
 
-For inspiration, look through [_Adventures in Synthetic Biology_](http://www.nature.com/nature/comics/syntheticbiologycomic/index.html) and its original storyboard.
+For inspiration, look through {{% resource_link "ccb7b8bf-1df6-43e3-b3e4-dc838bf73a50" "_Adventures in Synthetic Biology_" %}} and its original storyboard.
 
 {{< resource "20180623-acaf-f4fe-8d9b-327ae0a2f82c" >}}
 
 Original storyboard for Adventures in Synthetic Biology, by Drew Endy.
 
-This storyboard was sketched on regular paper by Drew Endy as he was flying from one place to another. The genesis of the comic is documented [here](http://openwetware.org/wiki/Adventure_Background).
+This storyboard was sketched on regular paper by Drew Endy as he was flying from one place to another. The genesis of the comic is documented {{% resource_link "a244517a-80b1-4d4d-9de8-5497ee9e3cab" "here" %}}.
 
 Then, using the problem or opportunity you described in your letter (PDP1), draft a two chapter script for a comic book using characters from your imagination. In chapter 1, have the characters talk about the problem or opportunity. In chapter 2, have the characters brainstorm a way to solve the issue.
 

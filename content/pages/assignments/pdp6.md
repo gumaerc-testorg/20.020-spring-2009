@@ -13,7 +13,7 @@ uid: 756e7778-79ee-8a5b-41b8-3cf5eefd127b
 
 {{% resource_link 7ef809ca-6e7c-c228-6009-9fdf144f91a5 "PDP1" %}} | {{% resource_link 748793de-af7d-1446-8239-f08710adb74a "PDP2" %}} | {{% resource_link c2228cb6-b321-79d4-e0d8-9b54555761a7 "PDP3" %}} | {{% resource_link bab8ac23-d57d-1829-c8f5-903bfbaf410b "PDP4" %}} | {{% resource_link f3d7a1ea-4cf9-5fa0-22ce-86ee40bc078a "PDP5" %}} | PDP6 | {{% resource_link f891db08-de7e-ab21-9248-f82f1a25a5be "PDP7" %}} | {{% resource_link d95fa243-cdab-2629-6017-a10a317dcc60 "PDP8" %}}
 
-In this assignment you will address the characteristics of "good design." For instance, [Joel Schindall](https://gelp.mit.edu/about-gel/program-staff/joel-schindall) from the Gordon Engineering Leadership Program offers these elements of **good product design**:
+In this assignment you will address the characteristics of "good design." For instance, {{% resource_link "ad047379-8df8-4537-8d66-0eabfab037cb" "Joel Schindall" %}} from the Gordon Engineering Leadership Program offers these elements of **good product design**:
 
 *   You know it when you see it
 *   Minimalist — meets requirements in an efficient manner
@@ -25,7 +25,7 @@ In this assignment you will address the characteristics of "good design." For in
 *   Flexible
 *   Combines functions to increase efficiency — mounting bracket doubles as heat sink, etc.
 
-By contrast, [this interview with Blade Kotelly](http://www.acm.org/ubiquity/interviews/b_kotelly_2.html) from Endeca Technologies offers these elements of **good software design:**
+By contrast, {{% resource_link "e25f8870-a9d4-4b44-a2d0-db383132652d" "this interview with Blade Kotelly" %}} from Endeca Technologies offers these elements of **good software design:**
 
 *   Visually Clean
 *   Communicates clearly and quickly
